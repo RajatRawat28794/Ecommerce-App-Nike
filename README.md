@@ -5,6 +5,7 @@
     </a>
   <br />
 
+<div> Figma Link: https://www.figma.com/design/wzF4EHq66iSlNXr6IwhAFe/Nike-Ecommerce-Website?node-id=2-2&p=f<div>
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6"/>
     <img alt="Static Badge" src="https://img.shields.io/badge/Devin AI-FFF?style=for-the-badge&logo=devin&logoColor=white">
@@ -16,7 +17,7 @@
 
   </div>
 
-  <h3 align="center">Nike Ecommerce w/ Devin AI</h3>
+  <h3 align="center">Nike Ecommerce</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
